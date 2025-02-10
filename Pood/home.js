@@ -81,7 +81,7 @@ window.onload = function() {
   if (languageToggle) {
     languageToggle.addEventListener('change', function() {
       if (this.checked) {
-        window.location.href = 'https://sildrepood.github.io/est/esthome.html';
+        window.location.href = 'Pood/home.html';
       }
     });
   } else {

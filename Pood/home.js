@@ -81,7 +81,7 @@ window.onload = function() {
   if (languageToggle) {
     languageToggle.addEventListener('change', function() {
       if (this.checked) {
-        window.location.href = 'Pood/home.html';
+        window.location.href = 'Pood/est/esthome.html';
       }
     });
   } else {

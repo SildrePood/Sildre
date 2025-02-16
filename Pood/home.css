@@ -530,12 +530,6 @@ IMPORTNATCE STUFF IMPORTNATCE STUFFIMPORTNATCE STUFFIMPORTNATCE STUFF */
     margin-right: -75px;
   }
 } 
-@media (max-width: 1330px) {
-  .arvopart-buy_section {
-    margin-top: 725px;
-  }
-}
-
 
 @media (max-width: 1300px) {
   .arvopart-buy_section {
